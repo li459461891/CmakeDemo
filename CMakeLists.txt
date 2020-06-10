@@ -1,6 +1,6 @@
 # cmake version 
 cmake_minimum_required(VERSION 3.0)
-# cmake build script for matrix-sample-code
+# cmake build
 project(cmake-demo)
 
 SET(CMAKE_BUILD_TYPE "Release")
